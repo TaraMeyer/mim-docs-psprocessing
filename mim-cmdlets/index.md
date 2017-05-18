@@ -11,4 +11,6 @@ This section contains the help topics for Microsoft Identity Manager 2016 SP1 Po
 
 Module | Description
 ------ | -----------
+[FIMAutomation](/powershell/identitymanager/fimautomation/vlatest/fimautomation  ) | Contains the cmdlet help topics for FIM Automation
 [MIMPAM](/powershell/identitymanager/mimpam/vlatest/mimpam  ) | Contains the cmdlet help topics for Privilege Access Management Module
+[Microsoft.DirectoryServices.MetaDirectoryServices.Config](/powershell/identitymanager/microsoft.directoryservices.metadirectoryservices.config/vlatest/microsoft.directoryservices.metadirectoryservices.config  ) | Contains the cmdlet help topics for Microsoft.DirectoryServices.MetaDirectoryServices.Config
